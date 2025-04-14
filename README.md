@@ -9,7 +9,7 @@ This repository contains three different deep learning projects implemented usin
 
 Each project explores different challenges in deep learning, providing detailed code, experiments, and results.
 
-##🔥 Projects Included
+## 🔥 Projects Included
 ### 1. Creating Multi-Task Models
 Description:
 Developed models that can learn and predict multiple outputs at once (e.g., predicting different attributes of the same input). It demonstrates shared representation learning using PyTorch.
